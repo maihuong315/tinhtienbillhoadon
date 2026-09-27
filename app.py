@@ -19,7 +19,6 @@ menu = {
         "Sườn nướng BBQ": 150000,
         "Cánh gà chiên mắm": 75000,
         "Lẩu cá diêu hồng": 200000,
-        "Mai Huong CUTEPHOMAIQUE": 1000000000000000000000,
         "Lẩu Thái hải sản": 300000,
     },
     "Thức uống": {
